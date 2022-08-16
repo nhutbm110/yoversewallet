@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be85cfa0-7f5b-487a-93c1-4a1bc8ae3681" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BmuMmp0JEJGzrzfX0LPF1wtAy3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="marketplace.base" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LAP12160-local\IdeaProjects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/LAP12160-local/IdeaProjects/pom_automation/testng.xml">
+    <configuration name="C:/Users/LAP12160-local/IdeaProjects/pom_automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pom_automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pom_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="marketplace.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="marketplace.tests" />
+      <option name="MAIN_CLASS_NAME" value="marketplace.tests.WalletTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pom_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yoversewallet.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="marketplace.tests" />
+      <option name="MAIN_CLASS_NAME" value="yoversewallet.tests.WalletTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pom_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yoversewallet.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="marketplace.tests" />
+      <option name="MAIN_CLASS_NAME" value="yoversewallet.tests.WalletTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletTest.TC3checkAddressMasterAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pom_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yoversewallet.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="marketplace.tests" />
+      <option name="MAIN_CLASS_NAME" value="yoversewallet.tests.WalletTest" />
+      <option name="METHOD_NAME" value="TC3checkAddressMasterAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletTest.TC7SendtoSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pom_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yoversewallet.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="marketplace.tests" />
+      <option name="MAIN_CLASS_NAME" value="yoversewallet.tests.WalletTest" />
+      <option name="METHOD_NAME" value="TC7SendtoSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/LAP12160-local/IdeaProjects/pom_automation/testng.xml" />
+        <item itemvalue="TestNG.WalletTest" />
+        <item itemvalue="TestNG.WalletTest.TC7SendtoSuccess" />
+        <item itemvalue="TestNG.WalletTest.TC3checkAddressMasterAccount" />
+        <item itemvalue="TestNG.WalletTest (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be85cfa0-7f5b-487a-93c1-4a1bc8ae3681" name="Default Changelist" comment="" />
+      <created>1657523535763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657523535763</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Notifications" timestamp="1659153844366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1659153844366" />
+    <state x="2281" y="70" key="#Notifications/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1657595016340" />
+    <state x="2143" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657523970487">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2143" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1657523970487" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1660033064276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1660033064276" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1660034964164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1660034964164" />
+    <state x="2469" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1657639120774" />
+    <state width="1537" height="271" key="GridCell.Tab.0.bottom" timestamp="1660641710472">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="271" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1660035763439" />
+    <state width="1537" height="271" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1660641710472" />
+    <state width="1537" height="286" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1659604057902" />
+    <state width="1537" height="271" key="GridCell.Tab.0.center" timestamp="1660641710472">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="271" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1660035763439" />
+    <state width="1537" height="271" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1660641710472" />
+    <state width="1537" height="286" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1659604057901" />
+    <state width="1537" height="271" key="GridCell.Tab.0.left" timestamp="1660641710472">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="271" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1660035763439" />
+    <state width="1537" height="271" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1660641710472" />
+    <state width="1537" height="286" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1659604057901" />
+    <state width="1537" height="271" key="GridCell.Tab.0.right" timestamp="1660641710472">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="271" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1660035763439" />
+    <state width="1537" height="271" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1660641710472" />
+    <state width="1537" height="286" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1659604057902" />
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom" timestamp="1658419820401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1658419820401" />
+    <state width="1537" height="270" key="GridCell.Tab.1.center" timestamp="1658419820401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1658419820401" />
+    <state width="1537" height="270" key="GridCell.Tab.1.left" timestamp="1658419820401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1658419820401" />
+    <state width="1537" height="270" key="GridCell.Tab.1.right" timestamp="1658419820401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1658419820401" />
+    <state x="2219" y="67" key="Maven.ArtifactSearchDialog" timestamp="1657638373363">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2219" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1657638373363" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1659158347339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1659158347339" />
+    <state x="2169" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1658714843294" />
+    <state x="475" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1659339858667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="40" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1659339858667" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1659688630609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1659688630609" />
+  </component>
+</project>

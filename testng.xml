@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite" parallel="tests">
+    <listeners>
+        <listener class-name="yoversewallet.utils.listeners.TestListener"/>
+    </listeners>
+    <test name="KimiWallet">
+        <parameter name="browser" value="chrome">
+        </parameter>
+        <classes>
+            <class name="yoversewallet.tests.WalletTest">
+<!--                <methods>-->
+<!--                    <include name=""/>-->
+<!--                    <include name=""/>-->
+<!--                    <include name=""/>-->
+<!--                </methods>-->
+            </class>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="KimiWallet1">
+        <parameter name="browser" value="edge">
+        </parameter>
+        <classes>
+            <class name="yoversewallet.tests.WalletTest">
+<!--                <methods>-->
+<!--                    <include name=""/>-->
+<!--                    <include name=""/>-->
+<!--                    <include name=""/>-->
+<!--                </methods>-->
+            </class>
+        </classes>
+    </test>
+
+</suite> <!-- Suite -->
